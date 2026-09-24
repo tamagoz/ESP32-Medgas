@@ -1,0 +1,6 @@
+{
+  "name": "Medgas Master v3.1 Telemetry & Control Viewer",
+  "description": "Real-time Medical Gas Pressure Dashboard & Relay Controller for Medgas Master v3.1 (ESP32-C3) with NTFY notifications, threshold alerts, data visualization, and CSV export for iOS and Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
